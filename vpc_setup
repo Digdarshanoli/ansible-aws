@@ -13,7 +13,7 @@ privateSubnet3Cidr: 172.20.6.0/24
 # Region Name
 region: "us-east-1"
 
-# zones name
+# #zones name
 zone1: us-east-1a
 zone2: us-east-1b
 zone3: us-east-1c
