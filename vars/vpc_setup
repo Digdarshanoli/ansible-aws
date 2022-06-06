@@ -7,8 +7,8 @@ PublicSubnet2Cidr: 172.20.2.0/24
 PublicSubnet3Cidr: 172.20.3.0/24
 
 PrivateSubnet1Cidr: 172.20.4.0/24
-privateSubnet2Cidr: 172.20.5.0/24
-privateSubnet3Cidr: 172.20.6.0/24
+PrivateSubnet2Cidr: 172.20.5.0/24
+PrivateSubnet3Cidr: 172.20.6.0/24
 
 # Region Name
 region: "us-east-1"
